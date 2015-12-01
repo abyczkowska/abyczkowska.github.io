@@ -1,0 +1,141 @@
+.btn-external {
+	margin-top: 35px;
+}
+.container.navigation {
+	margin: 30px;
+	float: right;
+	display: block;
+}
+.nav-item a{
+	padding: 15px;
+}
+.nav-item a:hover{
+	padding: 15px;
+}
+.container.logo{
+	display: inline-block;
+}
+.intro {
+	margin-top: 100px;
+}
+img.logo {
+	width: 50%;
+	height: 50%;
+}
+.link-nav {
+	float: right;
+}
+.btn-nav{
+	display: inline-block;
+	padding:  0.5rem;
+}
+.sub-nav .btn-nav dd a{
+	color: #222;
+}
+.sub-nav .btn-nav dd a:hover{
+	color: #7a7a7a;
+}
+.sub-nav .btn-nav,
+.sub-nav .btn-nav dd {
+	font-family: 'Lato', sans-serif;
+	text-transform: uppercase;
+	color: black;
+}
+.sub-nav dd.active a {
+	background: none!important;
+	color: #008ED6!important;
+}
+.link-nav .btn-nav dd{
+ 	margin-left: 0;
+ }
+ .mail-link  {
+	font-family: 'Lato', sans-serif;
+ }
+
+.btn-external .medium.success.button{
+	background-color: #219dd6 ;
+	font-family: 'Lato', sans-serif;
+	text-transform: uppercase;
+}
+.thumb-space {
+	margin-top: 30px;
+}
+@media(max-width: 640px){
+	.img-small-scrn{
+		margin-top: 25px!important;
+	}
+}
+@media(max-width: 640px){
+	.img-small-scrn{
+		margin-top: 25px!important;
+	}
+}
+@media( max-width: 400px){
+	.link-nav {
+		float: none;
+		margin-left: 20px;
+		margin-top: 60px;
+	}
+}
+.container-logo {
+	height: 15px;
+}
+
+footer.block-dark {
+	background-color: #373f43;
+}
+.txt-footer {
+	color: white;
+	padding:25px 0;
+}
+.txt-footer a {
+	color: white;
+}
+.txt-footer a:hover{
+	color: #ddd;
+}
+.last-col {
+	margin-bottom: 60px;
+}
+.heading-center{
+	text-align:center;
+	padding-bottom: 15px;
+
+}
+.home-thumb {
+	border: 1px solid #ddd;
+	border-radius: 360px;
+	margin: 15px;
+}
+a img.home-thumb:hover{
+	border: 1px solid #008ED6; 
+}
+.border-bottom {
+	border-bottom: 1px solid #ddd;
+}
+.work-description{
+	padding-bottom: 15px;
+	text-align: center;
+
+}
+.work-description a {
+	color: #222;
+}
+.work-description a:hover {
+	color: #008ED6;
+}
+a.medium.success.button:hover{
+	background-color: #135e80!important;
+}
+/* about me*/
+.photo {
+	border-radius: 300px;
+	width: 150px;
+	height: 150px;
+	margin: auto;
+	display: block;
+}
+.small-12.columns.no-padding {
+	padding-left: 0;
+}
+}
